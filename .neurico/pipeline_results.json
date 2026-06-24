@@ -1,0 +1,14 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {},
+      "log_file": "/workspaces/reverse_alignment_stress_testi_20260624_181331_b566dc9d/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/reverse_alignment_stress_testi_20260624_181331_b566dc9d/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 5.930548191070557
+    }
+  },
+  "work_dir": "/workspaces/reverse_alignment_stress_testi_20260624_181331_b566dc9d"
+}
